@@ -53,10 +53,3 @@ It is built for anyone who wants a fast, reliable way to **save videos from soci
 ## Links
 
 - Telegram bot: https://t.me/SaveAsVideoFreebot
-
-## Related projects
-
-Related tools:
-
-- [Video Downloader — SaveFast](https://github.com/DeFiTON/telegram-video-downloader-bot-savefast)
-- [Video Downloader — SaveVideoPro](https://github.com/DeFiTON/telegram-video-downloader-bot-savepro)
